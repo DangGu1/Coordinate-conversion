@@ -1,0 +1,8 @@
+F:\Visual Studio 2010\Projects\DataGridViewTask\DataGridViewTask\obj\x86\Debug\DataGridViewTask.Form1.resources
+F:\Visual Studio 2010\Projects\DataGridViewTask\DataGridViewTask\obj\x86\Debug\DataGridViewTask.Properties.Resources.resources
+F:\Visual Studio 2010\Projects\DataGridViewTask\DataGridViewTask\obj\x86\Debug\DataGridViewTask.csproj.GenerateResource.Cache
+F:\Visual Studio 2010\Projects\DataGridViewTask\DataGridViewTask\bin\Debug\DataGridViewTask.exe
+F:\Visual Studio 2010\Projects\DataGridViewTask\DataGridViewTask\bin\Debug\DataGridViewTask.pdb
+F:\Visual Studio 2010\Projects\DataGridViewTask\DataGridViewTask\obj\x86\Debug\DataGridViewTask.exe
+F:\Visual Studio 2010\Projects\DataGridViewTask\DataGridViewTask\obj\x86\Debug\DataGridViewTask.pdb
+F:\Visual Studio 2010\Projects\DataGridViewTask\DataGridViewTask\obj\x86\Debug\DataGridViewTask.csprojResolveAssemblyReference.cache
